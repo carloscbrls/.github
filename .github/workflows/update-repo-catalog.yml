@@ -23,7 +23,7 @@ jobs:
           cat > REPO-CATALOG.md << 'HEADER'
           # 🗺️ CC3PO Repo Catalog — Partner Reference
 
-          > **For Atlas, Hermes, Prometheus, Cody, Aria, and every village partner.**
+          > **For Atlas, Hermes, Prometheus, Cody, Aria, Mimir, and every village partner.**
           > This is the map of all repos. Know what exists before you build something new.
           > Auto-generated weekly. Last updated: $(date -u +"%Y-%m-%d")
 

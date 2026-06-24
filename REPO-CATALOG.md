@@ -1,6 +1,6 @@
 # 🗺️ CC3PO Repo Catalog — Partner Reference
 
-> **For Atlas, Hermes, Prometheus, Cody, Aria, and every village partner.**
+> **For Atlas, Hermes, Prometheus, Cody, Aria, Mimir, and every village partner.**
 > This is the map of all 59 repos. Know what exists before you build something new.
 
 ---
@@ -81,11 +81,14 @@
 
 ## 🔄 How Partners Use This
 
-1. **Hermes** — Push code to any repo, Dependabot keeps deps fresh
-2. **Cody** — Auto-merge workflow approves dependency PRs
-3. **Prometheus** — Research findings go into `insights-cc3po-astro`
-4. **Aria** — Mutation patterns reference repo structure
-5. **Atlas** — Coordinates across all repos
+| Partner | What They Do With Repos |
+|---------|------------------------|
+| **Atlas 🌍** | Coordinates across all repos, maintains standards |
+| **Hermes ⚡** | Pushes code, runs CI/CD, keeps deps fresh |
+| **Cody 🛠️** | Auto-merge workflow approves dependency PRs |
+| **Prometheus 🔥** | Research findings go into `insights-cc3po-astro` |
+| **Aria 🧬** | Mutation patterns reference repo structure |
+| **Mimir 🧠** | Architecture reviews, compliance analysis, repo structure audits |
 
 ## 📋 Standards Applied to All Repos
 
@@ -101,3 +104,12 @@
 ---
 
 *Last updated: 2026-06-24 | Maintained by Atlas 🌍*
+
+| Partner | What They Do With Repos |
+|---------|------------------------|
+| **Atlas 🌍** | Coordinates across all repos, maintains standards |
+| **Hermes ⚡** | Pushes code, runs CI/CD, keeps deps fresh |
+| **Cody 🛠️** | Auto-merge workflow approves dependency PRs |
+| **Prometheus 🔥** | Research findings go into `insights-cc3po-astro` |
+| **Aria 🧬** | Mutation patterns reference repo structure |
+| **Mimir 🧠** | Architecture reviews, compliance analysis, repo structure audits |
