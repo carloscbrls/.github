@@ -12,8 +12,7 @@
 | `podcast-cc3po-astro` |  |
 | `stories-cc3po-astro` |  |
 | `demo-cc3po-astro` |  |
-| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
-| `insights-cc3po-astro` |  |
+| `show-and-tell` |  |
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `cc3po-com-redesign` |  |
 | `docs-cc3po-astro` |  |
@@ -24,7 +23,9 @@
 | `shield-cc3po-astro` |  |
 | `fortress-cc3po-astro` |  |
 | `cc3po-io-astro` |  |
+| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
 | `.github` | Default community health files for all CC3PO repositories |
+| `insights-cc3po-astro` |  |
 | `system4-astro` | System4 - Commercial Cleaning & Facility Services for San Joaquin Valley & Stanislaus County |
 | `astro-blog-starter-template` |  |
 | `tinez` | Tinez Fantasy Football League - 16 team dedicated league website |
