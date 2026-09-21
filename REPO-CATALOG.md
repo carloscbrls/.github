@@ -17,7 +17,6 @@
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `cc3po-com-redesign` |  |
 | `docs-cc3po-astro` |  |
-| `glad-auto-astro` | Glad Auto Sales & Services LLC — Lodi, CA. Vehicle registration, title transfers, dealer services, salvage titles. |
 | `citadel-cc3po-astro` |  |
 | `raicesdigitales-cc3po-astro` |  |
 | `academy-cc3po-astro` |  |
@@ -25,6 +24,7 @@
 | `shield-cc3po-astro` |  |
 | `fortress-cc3po-astro` |  |
 | `.github` | Default community health files for all CC3PO repositories |
+| `glad-auto-astro` | Glad Auto Sales & Services LLC — Lodi, CA. Vehicle registration, title transfers, dealer services, salvage titles. |
 | `stanislaus-housing` |  |
 | `insights-cc3po-astro` |  |
 | `tinez` | Tinez Fantasy Football League - 16 team dedicated league website |
