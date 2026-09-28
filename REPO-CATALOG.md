@@ -8,12 +8,6 @@
 
 | Repo | Purpose |
 |------|---------|
-| `cc3po-io-astro` |  |
-| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
-| `investors-cc3po-astro` |  |
-| `podcast-cc3po-astro` |  |
-| `stories-cc3po-astro` |  |
-| `demo-cc3po-astro` |  |
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `cc3po-com-redesign` |  |
 | `docs-cc3po-astro` |  |
@@ -24,6 +18,12 @@
 | `shield-cc3po-astro` |  |
 | `fortress-cc3po-astro` |  |
 | `.github` | Default community health files for all CC3PO repositories |
+| `cc3po-io-astro` |  |
+| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
+| `investors-cc3po-astro` |  |
+| `podcast-cc3po-astro` |  |
+| `stories-cc3po-astro` |  |
+| `demo-cc3po-astro` |  |
 | `glad-auto-astro` | Glad Auto Sales & Services LLC — Lodi, CA. Vehicle registration, title transfers, dealer services, salvage titles. |
 | `stanislaus-housing` |  |
 | `insights-cc3po-astro` |  |
