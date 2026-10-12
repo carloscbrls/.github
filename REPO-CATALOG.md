@@ -8,6 +8,7 @@
 
 | Repo | Purpose |
 |------|---------|
+| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
 | `.github` | Default community health files for all CC3PO repositories |
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `cc3po-com-redesign` |  |
@@ -19,7 +20,6 @@
 | `shield-cc3po-astro` |  |
 | `fortress-cc3po-astro` |  |
 | `cc3po-io-astro` |  |
-| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
 | `investors-cc3po-astro` |  |
 | `podcast-cc3po-astro` |  |
 | `stories-cc3po-astro` |  |
