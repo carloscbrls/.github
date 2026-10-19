@@ -8,10 +8,10 @@
 
 | Repo | Purpose |
 |------|---------|
-| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
-| `.github` | Default community health files for all CC3PO repositories |
-| `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `cc3po-com-redesign` |  |
+| `.github` | Default community health files for all CC3PO repositories |
+| `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
+| `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `docs-cc3po-astro` |  |
 | `citadel-cc3po-astro` |  |
 | `raicesdigitales-cc3po-astro` |  |
