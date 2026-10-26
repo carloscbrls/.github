@@ -8,13 +8,14 @@
 
 | Repo | Purpose |
 |------|---------|
-| `cc3po-com-redesign` |  |
+| `raicesdigitales-cc3po-astro` |  |
+| `tinez` | Tinez Fantasy Football League - 16 team dedicated league website |
 | `.github` | Default community health files for all CC3PO repositories |
+| `cc3po-com-redesign` |  |
 | `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
 | `docs-cc3po-astro` |  |
 | `citadel-cc3po-astro` |  |
-| `raicesdigitales-cc3po-astro` |  |
 | `academy-cc3po-astro` |  |
 | `audit-cc3po-astro` | Free Website Audit landing page - audit.cc3po.com |
 | `shield-cc3po-astro` |  |
@@ -27,7 +28,6 @@
 | `glad-auto-astro` | Glad Auto Sales & Services LLC — Lodi, CA. Vehicle registration, title transfers, dealer services, salvage titles. |
 | `stanislaus-housing` |  |
 | `insights-cc3po-astro` |  |
-| `tinez` | Tinez Fantasy Football League - 16 team dedicated league website |
 | `show-and-tell` |  |
 | `partners-cc3po-astro` |  |
 | `system4-astro` | System4 - Commercial Cleaning & Facility Services for San Joaquin Valley & Stanislaus County |
