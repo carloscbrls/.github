@@ -8,9 +8,9 @@
 
 | Repo | Purpose |
 |------|---------|
+| `.github` | Default community health files for all CC3PO repositories |
 | `raicesdigitales-cc3po-astro` |  |
 | `tinez` | Tinez Fantasy Football League - 16 team dedicated league website |
-| `.github` | Default community health files for all CC3PO repositories |
 | `cc3po-com-redesign` |  |
 | `dralanlee-astro` | Dr. Alan Lee DDS - Manteca Dentist Website |
 | `dontloseyourway-astro` | Don't Lose Your Way — A space for those who almost gave up and stayed |
